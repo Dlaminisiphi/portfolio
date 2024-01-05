@@ -28,12 +28,12 @@ const Work = () => {
             Flask Youtube Downloader
           </span>
           <div className='pt-8 text-center'>
-            <a href='https://utubeconverter75832.pythonanywhere.com/' target='_blank'>
+            <a href='https://utubeconverter75832.pythonanywhere.com/' target='_blank' rel='noopener noreferrer'>
               <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                 Demo 
               </button>
             </a>
-            <a href='https://github.com/Dlaminisiphi/video-downloader' target='_blank'>
+            <a href='https://github.com/Dlaminisiphi/video-downloader' target='_blank' rel='noopener noreferrer'>
               <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                 Code
               </button>
@@ -50,12 +50,12 @@ const Work = () => {
             Html CSS Weather App
           </span>
           <div className='pt-8 text-center'>
-            <a href='https://astounding-churros-a93ff9.netlify.app/' target='_blank'>
+            <a href='https://astounding-churros-a93ff9.netlify.app/' target='_blank' rel='noopener noreferrer'>
               <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                 Demo 
               </button>
             </a>
-            <a href='https://github.com/Dlaminisiphi/weather-app' target='_blank'>
+            <a href='https://github.com/Dlaminisiphi/weather-app' target='_blank' rel='noopener noreferrer'>
               <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                 Code
               </button>
