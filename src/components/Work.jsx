@@ -1,7 +1,7 @@
 import React from 'react';
 import Youtube from '../assets/youtube.png';
 import Weather from '../assets/weather.png'; 
-import Fixit from '../assets/fixtIt.png'; 
+import Fixit from '../assets/fixIt.png'; 
 
 const Work = () => {
   return (
